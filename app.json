@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "react-native-zoom-image-view",
+    "slug": "snack-38569e54-8e78-418c-bd8a-e6ce5831a737",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A view component for react-native with pinch to zoom, tap to move and double tap to zoom capability.\nYou can zoom everything, from normal images, text and more complex nested views."
+  }
+}
