@@ -1,0 +1,25 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~46.0.13",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-native": "0.69.6",
+    "lodash": "4.17.15",
+    "react-native-swiper": "1.6.0",
+    "react-native-elements": "0.19.1",
+    "@dudigital/react-native-zoomable-view": "1.0.7",
+    "@expo/vector-icons": "^13.0.0",
+    "react-native-modal": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
